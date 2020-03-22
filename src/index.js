@@ -22,8 +22,8 @@ const oidc = new Provider(`https://${process.env.HEROKU_APP_NAME}.herokuapp.com`
   adapter: RedisAdapter,
   clients: [
     {
-      client_id: 'foo',
-      redirect_uris: ['https://example.com'],
+      client_id: 'idle-web-app',
+      redirect_uris: ['https://idle-web-app.herokuapp.com'],
       response_types: ['code id_token', 'code', 'id_token'],
       grant_types: ['authorization_code', 'implicit'],
       token_endpoint_auth_method: 'none',
