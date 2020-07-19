@@ -13,7 +13,7 @@
     "express-urlrewrite": "^1.2.0",
     "ioredis": "^4.10.0",
     "jose": "^1.10.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "lowdb": "^1.0.0",
     "oidc-provider": "^6.0.0"
   },
