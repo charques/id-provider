@@ -9,7 +9,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-urlrewrite": "^1.2.0",
     "ioredis": "^4.10.0",
     "jose": "^1.10.0",
